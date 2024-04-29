@@ -8,13 +8,16 @@ To predict the marks scored by a student using the simple linear regression mode
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ### Algorithm
-1. Import pandas, numpy and sklearn.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Developed By: **PREM KUMAR. K**
-2. Calculate the values for the training data set.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Register No: **212222230111**
-3. Calculate the values for the test data set.
-4. Plot the graph for both the data sets and calculate for MAE, MSE and RMSE.
+1. Import pandas, numpy and sklearn.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+2. D
+3. Calculate the values for the training data set.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+4. Calculate the values for the test data set.
+5. Plot the graph for both the data sets and calculate for MAE, MSE and RMSE.
 
 ### Program:
 ```Python
+Developed By: **PREM KUMAR. K**
+Register No: **212222230111**
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
