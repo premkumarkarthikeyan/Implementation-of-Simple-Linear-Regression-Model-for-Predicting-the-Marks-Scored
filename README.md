@@ -16,8 +16,8 @@ To predict the marks scored by a student using the simple linear regression mode
 
 ### Program:
 ```Python
-Developed By: **PREM KUMAR. K**
-Register No: **212222230111**
+Developed By: PREM KUMAR. K
+Register No: 212222230111
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
